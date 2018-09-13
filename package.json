@@ -1,5 +1,5 @@
 {
-  "name": "push-dir",
+  "name": "@amilajack/push-dir",
   "version": "0.4.1",
   "description": "Push a directory to a remote branch",
   "keywords": [],
